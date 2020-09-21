@@ -1,0 +1,41 @@
+---
+title: "Homework 4"
+output: html_document
+author: "Your Name"
+---
+
+## Data Analyses
+
+Read these two election forecast websites:
+   - https://projects.fivethirtyeight.com/2020-election-forecast/
+   - https://projects.economist.com/us-2020-forecast/president/how-this-works
+
+## Summary
+
+Delete this text and write a brief one paragraph summary of what the two websites describe
+
+## Audience
+
+Delete this text and answer who you think the target audience of each analysis is
+
+## Elements
+
+Delete this text and answer what elements each analysis uses 
+
+## Principles
+
+Delete this text and answer what principles each analysis weights
+
+## Matching
+
+Delete this text and answer whether you think the analyst is matching the audience principle weights
+
+## Reproducibility
+
+Delete this text and answer do you think you could reproduce this analysis based on the text? Do you have access to the data, the code, enough of a description of what happened? Why or why not? 
+
+
+## More Principles
+
+Delete this text and answer whether you think there are other principles of data analysis you think are important beyond the 6 discussed in class
+
